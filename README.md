@@ -1,4 +1,4 @@
-# Food-pool
+# Food-menu
 
 1- Clone the repo.\
 2- install project dependencies "npm install".\
